@@ -1,4 +1,4 @@
-# linearrp
+# Linear Regression Project
 
 Tesla Stock Price Prediction Using Linear Regression
 This project analyzes and predicts Tesla's stock prices using linear regression. It leverages Python’s data science libraries, including Pandas, Seaborn, Matplotlib, and Scikit-learn, to perform exploratory data analysis (EDA) and build a predictive model.
